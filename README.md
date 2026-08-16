@@ -1,4 +1,4 @@
-# Vineet Sawant
+# Vineet Jaydeo
 
 ### Founder @ iKawn | Lead Forward Deployed Engineer
 **Applied AI · Agentic Systems · Multimodal AI · Enterprise Software**
